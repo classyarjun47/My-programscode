@@ -1,0 +1,1 @@
+//? 29.	Find whether number is int or float
